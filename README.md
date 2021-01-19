@@ -1,4 +1,8 @@
 # Natural-Language-Statistical-Features-of-neural-language-Generated-pseudo-Text
+
+### Refer Project_summary.pdf (https://github.com/sumedhachugh/Natural-Language-Statistical-Features-of-neural-language-Generated-pseudo-Text/blob/main/Project_summary.pdf) for short description of what all I have done in the project
+
+
 In the field of NLP (Natural Language Processing) the latest work is being done for Text Generation, as the machines are designed to focus on customer demand, identify important business information and prepare surrounding summaries that leads to the reduction in personal involvement. Long Short Term Memory networks (LSTMs) have recently shown remarkable performance in a number of activities dealing with natural language production, such as writing captions for imagery or poetic composition. However, only a handful of works have analyzed the text produced by LSTMs in order to assess the extent to which these scripts are identical to the man-made ones.
 
 In this project I have generated text using LSTMs and Transformers and have shown that the neural language model based on LSTMs follows Zipf’s and Heap’s law, two statistical representations followed by every natural language generated text. The main findings are about how a specific parameter known as Temperature affects the quality of the text produced and the confirmation that the text produced using Transformers is of better quality than that produced by LSTMs.
