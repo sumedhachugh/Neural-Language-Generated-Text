@@ -1,9 +1,9 @@
-# Natural-Language-Statistical-Features-of-neural-language-Generated-pseudo-Text
+# Empirical Laws of Natural Language Processing for Neural Language Generated Text_orcid_header
 
 ### Refer Project_summary.pdf (https://github.com/sumedhachugh/Natural-Language-Statistical-Features-of-neural-language-Generated-pseudo-Text/blob/main/Project_Summary.pdf) for short description of what all I have done in the project
 
 
-In this project I have generated text using LSTMs and Transformers and have shown that the neural language model based on LSTMs follows Zipf’s and Heap’s law and seen affect of hyperparameter Temperature on the quality of the text produced and the confirmation that the text produced using Transformers is of better quality than that produced by LSTMs.
+In this project we have generated text using LSTMs and Transformers and have shown that the neural language model based on LSTMs follows Zipf’s and Heap’s law and seen affect of hyperparameter Temperature on the quality of the text produced and the confirmation that the text produced using Transformers is of better quality than that produced by LSTMs.
 
 #### Sherlock.txt: Dataset
 #### LSTM_Text_Generator_colab.ipynb: Explored and cleaned dataset, tuned hyper-parammeters and generated LSTM model 
