@@ -1,4 +1,4 @@
-# Empirical Laws of Natural Language Processing for Neural Language Generated Text_orcid_header
+# Empirical Laws of Natural Language Processing for Neural Language Generated Text
 
 ### Refer Project_summary.pdf (https://github.com/sumedhachugh/Natural-Language-Statistical-Features-of-neural-language-Generated-pseudo-Text/blob/main/Project_Summary.pdf) for short description of what all I have done in the project
 
