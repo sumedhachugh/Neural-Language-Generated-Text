@@ -10,4 +10,6 @@ In this work, the text is generated using Long Short Term Memory networks (LSTMs
 #### LSTM_Text_Exploration.ipynb: Generated text using model generated in previous N.B Verified Zipf's and Heap's law on data generated
 #### Transformers_Text_generation.ipynb: Generated text using transformers (Source Referenced:: https://www.youtube.com/watch?v=vSN5Tn38ZIc&list=PL0Gv4uEEcwwDW6Q5AxxlektvPjeK9g_cJ&index=1. https://github.com/raghavbali/text_generation/blob/master/notebooks/text_generation_03.ipynb)
 
+## Paper Published: https://link.springer.com/chapter/10.1007/978-3-030-88378-2_15
+
 
