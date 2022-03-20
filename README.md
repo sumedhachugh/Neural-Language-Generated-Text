@@ -12,4 +12,7 @@ In this work, the text is generated using Long Short Term Memory networks (LSTMs
 
 ## Paper Published: https://link.springer.com/chapter/10.1007/978-3-030-88378-2_15
 
+## If you use this work, Please cite it as: 
+Sumedha, Rohilla, R. (2021). Empirical Laws of Natural Language Processing for Neural Language Generated Text. In: Bhattacharya, M., Kharb, L., Chahal, D. (eds) Information, Communication and Computing Technology. ICICCT 2021. Communications in Computer and Information Science, vol 1417. Springer, Cham. https://doi.org/10.1007/978-3-030-88378-2_15
+
 
